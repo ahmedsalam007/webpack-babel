@@ -1,12 +1,3 @@
 {
-    "presets": [
-        ["@babel/preset-env",
-        {
-            "targets": {
-              
-              "firefox": "30"
-            }
-          }
-        ]
-    ]
+    "presets": ["@babel/preset-env"]
 }
